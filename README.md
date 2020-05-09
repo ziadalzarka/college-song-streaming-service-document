@@ -1,3 +1,3 @@
 # Song Streaming Service
 
-The [docuemnt](document.pdf) is in pdf format along with an [Entity Relationship Diagram](erd.png)
+The [Song Streaming Service Document](document.pdf) is in pdf format along with an [Entity Relationship Diagram](erd.png)
